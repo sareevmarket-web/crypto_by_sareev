@@ -4,4 +4,3 @@ pandas-ta
 requests
 feedparser
 vaderSentiment
-sqlite3
