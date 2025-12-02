@@ -1,0 +1,7 @@
+aiogram==3.13.1
+pandas
+pandas-ta
+requests
+feedparser
+vaderSentiment
+sqlite3
